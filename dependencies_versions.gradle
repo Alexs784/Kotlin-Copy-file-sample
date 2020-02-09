@@ -1,0 +1,8 @@
+ext {
+    appCompatVersion ='1.1.0'
+    coreVersion = '1.1.0'
+    constraintlayoutVersion = '1.1.3'
+    lifecycleVersion= '2.2.0'
+    coroutinesVersion = '1.3.3'
+    koinVersion = '2.0.1'
+}

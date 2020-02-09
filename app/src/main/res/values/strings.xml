@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Copy file sample</string>
+    <string name="copy_small_file">Copy small file</string>
+    <string name="copy_big_file">Copy big file</string>
+</resources>
